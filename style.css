@@ -1,0 +1,47 @@
+
+.heading{
+    font-weight: 700;
+    font-size: 36px;
+}
+
+
+.input-button{
+    padding-top:50px ;
+    height: 64px; ;
+}
+
+.header-flex{
+    display: flex; 
+    background-color:#FFCD9E ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  align-items: center;
+
+
+}
+
+
+.data{
+    color:#FFFFFF; ;
+}
+button{
+    background-color:#FFFFFF ;
+}
+
+.footer-flex{
+    display: flex;
+    background-color:#282828;
+    justify-content: space-around;
+    flex-wrap:wrap
+
+}
+
+li:hover{
+
+    text-decoration:underline;
+    color:blue;
+}
+.item{
+   color: #FFFFFF;
+   list-style-type: none;
+}
